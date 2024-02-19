@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#lampada {
+    width: 100px;
+    height: auto;
+}
+
+#botao {
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+}
+
+#botao img {
+    width: 50px;
+    height: auto;
+}
